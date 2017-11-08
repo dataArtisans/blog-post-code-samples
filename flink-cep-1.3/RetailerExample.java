@@ -1,4 +1,7 @@
-/** This is a code sample written with FlinkCEP 1.3.2. It is not meant to be compiled on its own, but you can follow the steps in the quickstart guide (https://ci.apache.org/projects/flink/flink-docs-release-1.3/quickstart/java_api_quickstart.html) to create a Flink program . */
+/** This is a code sample written with FlinkCEP 1.3.2. It is not meant to be compiled on its own, 
+but you can follow the steps in the quickstart guide 
+(https://ci.apache.org/projects/flink/flink-docs-release-1.3/quickstart/java_api_quickstart.html) 
+to create a Flink program . */
 
 package org.apache.flink.cep;
 
